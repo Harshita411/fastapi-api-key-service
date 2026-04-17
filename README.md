@@ -44,7 +44,7 @@ app/
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/fastapi-api-key-service.git
+git clone https://github.com/Harshita411/fastapi-api-key-service.git
 cd fastapi-api-key-service
 
 python -m venv venv
@@ -144,4 +144,4 @@ It can be imported directly into Postman for testing all endpoints.
 ## Notes
 
 - Data will reset on server restart due to in-memory storage
-- Designed for demonstration and learning purposes, not production
+- This implementation is intended for demonstration purposes and can be extended with persistent storage (e.g., PostgreSQL, Redis) for production use.
