@@ -144,4 +144,4 @@ It can be imported directly into Postman for testing all endpoints.
 ## Notes
 
 - Data will reset on server restart due to in-memory storage
-- Designed for demonstration and learning purposes, not producti
+- Designed for demonstration and learning purposes, not production
